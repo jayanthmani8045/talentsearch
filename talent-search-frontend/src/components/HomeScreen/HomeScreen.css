@@ -1,0 +1,40 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.navBar
+{
+    height: fit-content;
+    background-color: blue;
+    h1{
+        font-size: xx-large;
+        padding: 50px;
+        color: whitesmoke;
+    }
+}
+
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start; 
+    padding: 30px;
+    gap: 20px; 
+  }
+  
+  .card {
+    width: 400px; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-image {
+    height: 400px; 
+    object-fit: contain; 
+    margin: 20px 0; 
+  }
+  
+Button {
+  width: 100%;
+}

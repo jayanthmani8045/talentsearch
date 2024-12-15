@@ -1,0 +1,16 @@
+
+
+.navBar
+{
+    height: fit-content;
+    background-color: blue;
+    h1{
+        font-size: xx-large;
+        padding: 50px;
+        color: whitesmoke;
+    }
+}
+
+.card{
+    width: 100%;
+}

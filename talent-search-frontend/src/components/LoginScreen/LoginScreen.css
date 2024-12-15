@@ -1,0 +1,37 @@
+body{
+    justify-content: center;
+}
+
+.login{
+    place-items: center;
+    position: relative;
+    top: 250px;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    margin-left: 20px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+h1{
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.form{
+    #outlined-basic {
+        width: 450px;
+        margin-top: 10px;
+    }
+    padding: 10px;
+    position: relative;
+}
+
+Button {
+    width: 480px;
+}
